@@ -1,0 +1,13 @@
+---
+- name: GigabitEthernet0/1
+  desc: uplink port
+  uplink: True
+- name: GigabitEthernet0/2
+  desc: Access Port one
+  vlan: 10
+- name: GigabitEthernet0/3
+  desc: Access Port two
+  vlan: 10
+- name: GigabitEthernet0/4
+  desc: Access Port three
+  vlan: 20
