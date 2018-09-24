@@ -7,10 +7,13 @@
   vlan: 10
 - name: GigabitEthernet0/3
   desc: Access Port two
-  vlan: 10
+  vlan: 20
 - name: GigabitEthernet0/4
   desc: Access Port three
-  vlan: 20
+  vlan: 30
 - name: GigabitEthernet0/5
   desc: Access Port four
-  vlan: 30
+  vlan: 40
+- name: GigabitEthernet0/6
+  desc: Access Port five
+  vlan: 50
