@@ -11,3 +11,6 @@
 - name: GigabitEthernet0/4
   desc: Access Port three
   vlan: 20
+- name: GigabitEthernet0/5
+  desc: Access Port four
+  vlan: 30
